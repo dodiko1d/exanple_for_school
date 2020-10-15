@@ -1,2 +1,2 @@
 def hello():
-    return 1
+    print(10)
