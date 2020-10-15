@@ -1,1 +1,2 @@
-# This is a sample Python script.
+def hello():
+    return 1
